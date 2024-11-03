@@ -1,5 +1,7 @@
 # glove80-keymaps
 
+[Building Firmware](https://docs.moergo.com/layout-editor-guide/building-firmware/)
+
 [Glove 80 key map configuration](https://my.glove80.com/#/layout/user/de095f3e-5604-4227-ae9d-cbd96e4ca385)
 
 ## Layer 1: Typing
