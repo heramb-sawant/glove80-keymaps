@@ -1,14 +1,12 @@
 # glove80-keymaps
 
-[Glove 80 key map configuration](https://my.glove80.com/#/layout/user/a0086f1a-281a-449e-8e0d-117f3a1ca2eb)
-
-Currently have 3 layers just to start. This should just help me get up and running. I really need to add a symbol layer.
+[Glove 80 key map configuration](https://my.glove80.com/#/layout/user/de095f3e-5604-4227-ae9d-cbd96e4ca385)
 
 ## Layer 1: Typing
-<img width="1302" alt="Screenshot 2024-11-03 at 10 13 46 AM" src="https://github.com/user-attachments/assets/c8ef66e9-ac03-4695-9eca-98a022c6a6cb">
+<img width="1302" alt="Screenshot 2024-11-03 at 10 20 18 AM" src="https://github.com/user-attachments/assets/0b5d93b5-5095-4ffa-af53-83735acaf102">
 
-## Layer 2: Navigation
-<img width="1302" alt="Screenshot 2024-11-03 at 10 14 02 AM" src="https://github.com/user-attachments/assets/96a18198-67c5-4a3b-a66e-1af6d74b7ec7">
+## Layer 2: Symbol & Navigation
+<img width="1302" alt="Screenshot 2024-11-03 at 10 20 29 AM" src="https://github.com/user-attachments/assets/4fc94807-d014-45d5-a7d0-b2580771cfbb">
 
 ## Layer 3: Magic
-<img width="1302" alt="Screenshot 2024-11-03 at 10 14 17 AM" src="https://github.com/user-attachments/assets/cc337404-8d7a-4295-8fa0-425e0651db2a">
+<img width="1302" alt="Screenshot 2024-11-03 at 10 20 40 AM" src="https://github.com/user-attachments/assets/0a32ef03-1587-48ce-b24c-3f035c528946">
